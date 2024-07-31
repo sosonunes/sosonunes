@@ -1,9 +1,9 @@
- _boas vindas ao meu perfeil_ 💟
+  _boas vindas ao meu perfeil_ 💟
 _meu nome é sophia nunes_
 _  estou estudando na alura;
 _  estou me desenvolvendo na linguagem davascript
 _utilizo esse espaço para minha organização e compartilhamnetos dos meus projetos desenvolvidos_
-**vocÊ pode entrar com contato comigo** 
+**vocÊ pode entrar em com contato comigo** 
 
 - 0000111716892xsp@al.educacao.gov.br 🌘
 - @sophia_nunes_
